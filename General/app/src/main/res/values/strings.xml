@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">General Radar</string>
+    
+    <!-- MainActivity -->
+    <string name="welcome_message">Welcome, General!\n\nClick \"Start Mission\" to receive your classified briefing.</string>
+    <string name="start_button">Start Mission</string>
+    
+    <!-- MainActivity2 -->
+    <string name="mission_title">TOP SECRET MISSION</string>
+    <string name="mission_briefing">Your mission is to locate enemy baseball bats with your radar.\n\nBE CAREFUL GENERAL! The enemy plays better baseball than us! If we lose, there won\'t be another match!\n\n- The Commander</string>
+    <string name="input_hint">Enter enemy bat count</string>
+    <string name="calculate_button">Calculate Mission Outcome</string>
+    <string name="result_label">MISSION RESULT:</string>
+    <string name="result_placeholder">Awaiting calculation...</string>
+    <string name="result_win">VICTORY! YOU WILL WIN GENERAL!</string>
+    <string name="result_lose">DEFEAT! YOU WILL LOSE GENERAL!</string>
+    <string name="statistics_title">Mission Statistics</string>
+    <string name="total_missions">Total Missions:</string>
+    <string name="victories">Victories:</string>
+    <string name="defeats">Defeats:</string>
+    <string name="win_rate">Win Rate:</string>
+    <string name="reset_stats">Reset Statistics</string>
+    <string name="error_empty_input">Please enter the number of enemy bats!</string>
+    <string name="error_invalid_input">Please enter a valid number!</string>
+    <string name="stats_reset_message">Statistics have been reset!</string>
+</resources>
